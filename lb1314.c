@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main(void)
-    printf("TEMPTURE\n")
-{   int celsius , fahr ;
+int main()
+ {
+    printf("TEMPTURE\n");
+   float celsius , fahr ;
     int lower ,upper, step;
 
     lower = 0;
