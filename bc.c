@@ -1,4 +1,4 @@
-i#include<stdio.h>
+#include<stdio.h>
  int main(){
      long long input;
      int lb = 0;

@@ -5,7 +5,6 @@ int main()
     printf("TEMPTURE\n");
    float celsius , fahr ;
     int lower ,upper, step;
-
     lower = 0;
     upper = 100;
     step = 5;
